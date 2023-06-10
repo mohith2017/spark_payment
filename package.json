@@ -43,7 +43,7 @@
   "devDependencies": {
     "@babel/core": "^7.22.5",
     "@babel/preset-env": "^7.22.5",
-    "@square/prettier-config": "^1.0.0",
+    "@square/prettier-config": "^2.0.0",
     "ava": "^5.3.0",
     "babel-loader": "^9.1.2",
     "eslint": "^8.41.0",
