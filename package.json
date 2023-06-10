@@ -46,7 +46,7 @@
     "@square/prettier-config": "^1.0.0",
     "ava": "^5.3.0",
     "babel-loader": "^9.1.2",
-    "eslint": "^8.41.0",
+    "eslint": "^8.42.0",
     "eslint-plugin-ava": "^14.0.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-square": "^25.0.0",
